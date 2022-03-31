@@ -1,0 +1,7 @@
+echo "# BoT-Tree" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/SaranyaS10/BoT-Tree.git
+git push -u origin main
